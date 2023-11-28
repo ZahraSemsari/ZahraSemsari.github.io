@@ -16,11 +16,11 @@ gallery:
     alt: "placeholder image 2"
     title: "Image 2 title caption"
   - url: /assets/images/کریسمس1.jpg
-    image_path: /assests/images/کریسمس1.jpg
+    image_path: /assets/images/کریسمس1.jpg
     alt: "placeholder کریسمس1"
     title: "کریسمس1 title caption"
   - url: /assets/images/کریسمس2.jpg
-    image_path: /assests/images/کریسمس2.jpg
+    image_path: /assets/images/کریسمس2.jpg
     alt: "placeholder کریسمس2"
     title: "کریسمس2 title caption"
       
