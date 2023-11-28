@@ -29,5 +29,8 @@ gallery:
 At first, as Christmas approaches, I thought I'd make a picture about this holiday. that these photographs show how to decorate the houses .
 Then I thought about decorating the streets and I thought that if we can have snowy day outside with a tall Christmas tree.
 
+![c1](/assets/images/c1.jpg)
+
+
 {% include gallery caption="This is my gallery **Markdown support**." %}
 
