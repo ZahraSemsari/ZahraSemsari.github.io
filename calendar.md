@@ -1,7 +1,7 @@
 ---
-layout: posts
+layout: single
 author_profile: true
-permalink: /Calendar/
+permalink: /calendar/
 title: Calendar
 tags: [calendar]
 modified: 28-11-2023
