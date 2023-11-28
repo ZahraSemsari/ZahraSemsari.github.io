@@ -1,9 +1,9 @@
 ---
 layout: posts
 author_profile: true
-permalink: /Calender/
-title: Calender
-tags: [calender]
+permalink: /Calendar/
+title: Calendar
+tags: [calendar]
 modified: 28-11-2023
 comments: true
 ---
