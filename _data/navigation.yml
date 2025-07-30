@@ -1,13 +1,13 @@
 # main links
 main:
-  - title: "Links"
-    url: /links/  
-  - title: "Gallery"
-    url: /gallery/
-  - title: "Blog"
-    url: /blog/
-  - title: "Calendar"
-    url: /calendar/
+  # - title: "Links"
+  #   url: /links/  
+  # - title: "Gallery"
+  #   url: /gallery/
+  # - title: "Blog"
+  #   url: /blog/
+  # - title: "Calendar"
+  #   url: /calendar/
 
 
   
