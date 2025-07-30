@@ -334,6 +334,7 @@
 .nav__list {
   margin-bottom: 1.5em;
 
+
   input[type="checkbox"],
   label {
     display: none;
@@ -428,6 +429,8 @@
       }
     }
   }
+
+  direction: ltr;  // override the page’s RTL
 }
 
 .nav__list .nav__items {
